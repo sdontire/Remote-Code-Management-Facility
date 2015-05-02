@@ -1,0 +1,30 @@
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\bin\Debug\GUI.exe.config
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\bin\Debug\GUI.exe
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\bin\Debug\GUI.pdb
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\bin\Debug\Bridge.dll
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\bin\Debug\Bridge.pdb
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\MainWindow.baml
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\App.g.cs
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\GUI_MarkupCompile.cache
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\GUI.g.resources
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\GUI.exe
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\GUI\obj\Debug\GUI.pdb
+D:\SnehaSockets\Sockets\GUI\bin\Debug\GUI.exe.config
+D:\SnehaSockets\Sockets\GUI\bin\Debug\GUI.exe
+D:\SnehaSockets\Sockets\GUI\bin\Debug\GUI.pdb
+D:\SnehaSockets\Sockets\GUI\bin\Debug\Bridge.dll
+D:\SnehaSockets\Sockets\GUI\bin\Debug\Bridge.pdb
+D:\SnehaSockets\Sockets\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\SnehaSockets\Sockets\GUI\obj\Debug\MainWindow.baml
+D:\SnehaSockets\Sockets\GUI\obj\Debug\MainWindow.g.cs
+D:\SnehaSockets\Sockets\GUI\obj\Debug\App.g.cs
+D:\SnehaSockets\Sockets\GUI\obj\Debug\GUI_MarkupCompile.cache
+D:\SnehaSockets\Sockets\GUI\obj\Debug\GUI.g.resources
+D:\SnehaSockets\Sockets\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\SnehaSockets\Sockets\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\SnehaSockets\Sockets\GUI\obj\Debug\GUI.exe
+D:\SnehaSockets\Sockets\GUI\obj\Debug\GUI.pdb

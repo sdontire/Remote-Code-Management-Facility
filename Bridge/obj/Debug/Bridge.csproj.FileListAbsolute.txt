@@ -1,0 +1,10 @@
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\Bridge\bin\Debug\Bridge.dll
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\Bridge\obj\Debug\Bridge.dll
+C:\Users\Siddhartha K\Desktop\SnehaSockets\Sockets\Bridge\obj\Debug\Bridge.pdb
+D:\SnehaSockets\Sockets\Bridge\bin\Debug\Bridge.dll
+D:\SnehaSockets\Sockets\Bridge\bin\Debug\Bridge.pdb
+D:\SnehaSockets\Sockets\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\SnehaSockets\Sockets\Bridge\obj\Debug\Bridge.dll
+D:\SnehaSockets\Sockets\Bridge\obj\Debug\Bridge.pdb
